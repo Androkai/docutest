@@ -3,13 +3,6 @@ description: Let us know that something clearly doesn't work as expected / descr
 labels: 
   - bug
 body:
-  - type: markdown
-    attributes:
-      value: >
-        Before reporting a bug here, please make sure you use the latest stable version of DiscordSRV
-        from [SpigotMC](https://www.spigotmc.org/resources/18494/)
-        or [BukkitDev](https://dev.bukkit.org/projects/discordsrv).
-        If possible please also test against our [latest snapshot build](https://snapshot.discordsrv.com).
   - type: textarea
     attributes:
       label: Expected behavior
